@@ -1,3 +1,25 @@
 body{
     margin: 0;
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+
+    /*background-image: url(https://images.unsplash.com/photo-1552910996-e666ad64695c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);*/
+    /*background-image: url(imgs/snow.jpg);*/
+
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    
+}
+
+.countDownContainer{
+    display: flex;
+}
+
+.countElement{
+    text-align: center;
+}
+
+.bigText{
+    margin: 0 50px;
 }
