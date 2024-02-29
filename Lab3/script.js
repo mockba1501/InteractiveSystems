@@ -21,12 +21,3 @@ async function getData()
 }
 
 getData();
-
-/*
-let var1 =document.querySelector("h1");
-//let var1 = document.getElementById("something")
-
-var1.innerHTML = "Hello";
-//const var3;
-
-*/
